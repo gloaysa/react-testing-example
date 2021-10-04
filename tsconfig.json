@@ -102,9 +102,8 @@
     "skipLibCheck": true /* Skip type checking all .d.ts files. */,
     "paths": {
       "components/*": ["src/components/*"],
-      "styles/*": ["src/styles/*"],
-      "assets/*": ["src/assets/*"],
-      "utils/*": ["src/utils/*"]
+      "services/*": ["src/services/*"],
+      "styles/*": ["src/styles/*"]
     }
   },
 
