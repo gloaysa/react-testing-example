@@ -10,7 +10,7 @@
     "airbnb",
     "plugin:prettier/recommended",
     "plugin:jest/recommended",
-    "plugin:sonarjs/recommended"
+    // "plugin:sonarjs/recommended"
   ],
   "plugins": ["prettier", "jest", "sonarjs"],
   "globals": {
